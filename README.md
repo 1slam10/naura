@@ -7,7 +7,7 @@
 Neura is currently in its early stages. The core functionality is being developed, and contributions, feedback, and suggestions are highly encouraged. 
 
 **Note:** 
-> This library is not ready for production use yet.
+> This library is not ready for production (or any other, lol) use yet.
 
 ## Key Features (Planned)
 
@@ -47,10 +47,10 @@ Neura is currently in its early stages. The core functionality is being develope
 
 All contributors are welcomed! Whether you're new to Go or a seasoned developer, feel free to fork the repository, make changes, and submit a pull request. Contribution guidelines will be provided soon.
 
-### License
+## License
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+(Honestly, I have no idea about this license - ChatGPT recommended me to use that one)
 
 ## Contacts
 Feel free to text or mail me for any queries or help.
